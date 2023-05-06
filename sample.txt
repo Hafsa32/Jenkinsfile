@@ -1,6 +1,3 @@
 Jenkins file
 cmd
 vvfll
-asdfghjkl
-dfghjkk
-sfghjkll
